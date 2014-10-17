@@ -1,0 +1,16 @@
+/* Global properties ======================================================== */
+html, body {
+    width:100%;
+    padding:0;
+    margin:0;
+}
+
+body {
+    font: 14px/24px Tahoma, Geneva, sans-serif;
+    min-width:1264px;
+}
+
+.main {
+    width:1264px;
+    margin:0 auto;
+}
